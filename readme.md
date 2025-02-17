@@ -1,1 +1,1 @@
-"Hey This repository created for storing books related to engineering".
+This collection comprises books intended for electronics and communication engineers. So, if you notice this repository and have some books, just add them to it.
